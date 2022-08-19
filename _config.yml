@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rigel Galgana"
 title_separator          : "-"
 name                     : &name "Rigel Galgana"
-description              : &description "I am a current Operations Research PhD student at MIT edit"
+description              : &description "I am a current Operations Research PhD student at MIT"
 url                      : https://GalganaR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GalganaR/GalganaR.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" (default), "light"
+    colorscheme          : "dark" # "dark" (default), "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
