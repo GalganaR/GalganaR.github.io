@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rigel Galgana"
   avatar           : "profilepic.jpeg"
-  bio              : "I am a current Operations Research PhD student at MIT"
+  bio              : "Current MIT Operations Research PhD student"
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eOILNCEAAAAJ"
-  email            :
+  email            : "GalganaRigel@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
