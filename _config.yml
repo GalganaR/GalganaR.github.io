@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rigel Galgana"
-  avatar           : /profilepic.jpg
+  avatar           : /files/profilepic.jpg
   bio              : "I am a current Operations Research PhD student at MIT edited"
   location         : "Cambridge, MA, USA"
   employer         :
