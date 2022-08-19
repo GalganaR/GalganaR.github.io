@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/files/profilepic.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rigel Galgana"
-  avatar           : /files/profilepic.jpg
+  avatar           : "/files/profilepic.jpg"
   bio              : "I am a current Operations Research PhD student at MIT"
   location         : "Cambridge, MA, USA"
   employer         :
