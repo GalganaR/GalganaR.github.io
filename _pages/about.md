@@ -12,5 +12,5 @@ I am an incoming first year Operations Research student at MIT working with Prof
 
 Interests
 ======
-My research interests lie at the intersection of learning, games, and mechanism design---more specifically data driven mechanism design, equilibrium computation, and multi-agent reinforcement learning. I am also loosely interested in statistical computing, modeling and simulation, and empirical process theory and how they relate to auctions. Outside of research, I enjoy playing table tennis, piano, and guitar. 
+My research interests lie at the intersection of learning, games, and mechanism design---more specifically data driven mechanism design, equilibrium computation, and multi-agent reinforcement learning. I am also interested in statistical computing, modeling and simulation, empirical process theory and their relationship with auctions. Outside of research, I enjoy playing table tennis, chess, guitar, and piano. To those it may concern, I am the CasualCollective's (RIP) illustrious FroggyX.
 
