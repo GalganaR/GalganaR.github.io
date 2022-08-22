@@ -8,7 +8,7 @@ permalink: /research/
 
 **A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics on Graphs**  
   With Amy Greenwald, Takehiro Oyakawa.
-  *[Version as of August 22, 2022](/files/Order_Stats_Spilling.pdf)*
+  *[Version as of August 22, 2022](/files/Order_Stats_Graphs.pdf)*
   
   
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
