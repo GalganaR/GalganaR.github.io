@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Operations Research PhD student at MIT working with Professor [Negin Golrezaei](https://www.mit.edu/~golrezae/). Prior to MIT, I worked as a Portfolio Implementation analyst at AQR Capital Management. I graduated from Brown University in May 2020 where I studied applied mathematics, computer science, and economics. During my time at Brown, I was fortunate to work with Professor [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/). Here is my <a href="files/Rigel_Galgana_CV_8_22_2022.pdf">CV</a>.
+I am an incoming Operations Research PhD student at MIT working with Professor [Negin Golrezaei](https://www.mit.edu/~golrezae/). Prior to MIT, I worked as a Portfolio Implementation analyst at AQR Capital Management. I graduated from Brown University in May 2020 where I studied applied mathematics, computer science, and economics. During my time at Brown, I was fortunate to work with Professor [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/). Contrary to what my profile picture suggests, I am in fact _not_ a purple elephant; I am the fellow on the bottom left. Here is my <a href="files/Rigel_Galgana_CV_8_22_2022.pdf">CV</a>.
 
 Interests
 ======
