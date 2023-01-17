@@ -6,14 +6,17 @@ permalink: /research/
 
 ## Working Papers
 
-**A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics on Graphs**  
+**Learning in Multi-Unit Auctions**
+  With Negin Golrezaei.
+
+**Computing Boundary Crossing Probabilities of General Empirical Processes**  
   With Amy Greenwald, Takehiro Oyakawa.
-  *[Version as of August 22, 2022](/files/Order_Stats_Graphs.pdf)*
+  *[Submitted January 16, 2023](/files/Order_Stats_Graphs.pdf)*
   
   
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
-  *[Submitted July 15, 2022](/files/Efficiently_Sampling_Order_Statistics.pdf)*
+  *[Submitted January 16, 2023](/files/Efficiently_Sampling_Order_Statistics.pdf)*
   
   
 ## Publications
