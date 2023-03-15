@@ -8,11 +8,6 @@ permalink: /research/
 
 **Learning in Multi-Unit Auctions**
   With Negin Golrezaei.
-
-**Computing Boundary Crossing Probabilities of General Empirical Processes**  
-  With Amy Greenwald, Takehiro Oyakawa.
-  *[Submitted January 16, 2023](/files/Order_Stats_Graphs.pdf)*
-  
   
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
@@ -25,6 +20,9 @@ permalink: /research/
   With Cengke Shi (co-first author), Amy Greenwald, and Takehiro Oyakawa.  
   *[Published in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)_](https://epubs.siam.org/doi/abs/10.1137/1.9781611976830.15?af=R)*
 
+**Computing Boundary Crossing Probabilities of General Empirical Processes**  
+  With Amy Greenwald, Takehiro Oyakawa.
+  *[To appear in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23)_]
   
 ## Other
 
