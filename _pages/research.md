@@ -22,7 +22,7 @@ permalink: /research/
 
 **Computing Boundary Crossing Probabilities of General Empirical Processes**  
   With Amy Greenwald, Takehiro Oyakawa.
-  *[To appear in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23)_]
+  *[Published in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23)_](https://epubs.siam.org/doi/10.1137/1.9781611977714.21)*
   
 ## Other
 
