@@ -8,7 +8,7 @@ permalink: /research/
 
 **Learning in Multi-Unit Auctions**
   With Negin Golrezaei.
-  *[Preprint]*(https://arxiv.org/abs/2307.15193)
+  *[Preprint](https://arxiv.org/abs/2307.15193)*
   
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
