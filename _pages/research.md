@@ -14,7 +14,7 @@ permalink: /research/
 ## Publications
 
 
-**Learning in Multi-Unit Auctions**
+**Learning in Repeated Multi-unit Pay-as-Bid Auctions**
   With Negin Golrezaei.
   *[Published in _Manufacturing & Service Operations Management 2024_](https://pubsonline.informs.org/doi/full/10.1287/msom.2023.0403)*
 
