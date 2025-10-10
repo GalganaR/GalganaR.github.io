@@ -6,6 +6,12 @@ permalink: /research/
 
 ## Working Papers
 
+**Learning in Multi-Unit Pay-as-Bid Markets**  
+  With Zezheng Lyu.
+
+**Gap-Based Learning in Markets**  
+  With Negin Golrezaei.
+
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
   *[Preprint](/files/Efficiently_Sampling_Order_Statistics.pdf)*
