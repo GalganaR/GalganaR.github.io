@@ -11,10 +11,12 @@ permalink: /research/
 
 **Gap-Based Learning in Markets**  
   With Negin Golrezaei.
+  *[Submitted to EC 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222981)*
 
-**Efficient Algorithms to Sample from Order Statistic Distributions**  
-  With Cyrus Cousins, Shamay Samuel.
-  *[Preprint](/files/Efficiently_Sampling_Order_Statistics.pdf)*
+**Moneyless Resource Allocation with Heterogeneous Durations**
+  With Negin Golrezaei and Yifeng Teng.
+  *[Submitted to EC 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
+
   
   
 ## Publications
@@ -33,6 +35,10 @@ permalink: /research/
   *[Published in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)_](https://epubs.siam.org/doi/abs/10.1137/1.9781611976830.15?af=R)*
 
 ## Other
+
+**Efficient Algorithms to Sample from Order Statistic Distributions**  
+  With Cyrus Cousins, Shamay Samuel.
+  *[Preprint](/files/Efficiently_Sampling_Order_Statistics.pdf)*
 
 **Optimal Reserve Price Estimation in the Generalized First and Second Price Auctions with Best Response Dynamics**  
   Completed 2020-05-22. With Amy Greenwald (Thesis Advisor).
