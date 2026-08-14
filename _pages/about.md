@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Operations Research PhD student at MIT working with Professor [Negin Golrezaei](https://www.mit.edu/~golrezae/). Currently, I am on exchange at Stanford University for the 2025-26 academic year! Prior to MIT, I worked as a Portfolio Implementation analyst at AQR Capital Management. I graduated from Brown University in May 2020 where I studied applied mathematics, computer science, and economics. During my time at Brown, I worked with Professor [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) in the [E-GLAMOR group](http://glamor.cs.brown.edu/). Contrary to what my profile picture suggests, I am in fact _not_ a purple elephant; you may instead find me at the bottom left of the image. Here is my <a href="files/Rigel_Galgana_CV_8_22_2022.pdf">CV</a>.
+I am a fifth year Operations Research PhD student at MIT working with Professor [Negin Golrezaei](https://www.mit.edu/~golrezae/). Currently, I am on exchange at Stanford University for the 2025-26 academic year! I graduated from Brown University in May 2020 where I worked with Professor [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) in the [E-GLAMOR group](http://glamor.cs.brown.edu/). Contrary to what my profile picture suggests, I am in fact _not_ a purple elephant; you may instead find me at the bottom left of the image. Here is my <a href="files/Rigel_Galgana_CV_8_22_2022.pdf">CV</a>.
 
 Research Interests
 ======
