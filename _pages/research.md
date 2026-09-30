@@ -6,18 +6,18 @@ permalink: /research/
 
 ## Working Papers
 
-**Learning in Multi-Unit Pay-as-Bid Markets**  
-  With Zezheng Lyu. WIP
+**Robust Multi-Item Demand Autobidding Auctions**
+  With Negin Golrezaei and Yifeng Teng.
+  *[Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7501280)*
 
-**Gap-Based Learning in Markets**  
-  With Negin Golrezaei. WIP
+**Gap-Based Learning in Multi-Unit Markets**  
+  With Negin Golrezaei. *[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222981)*
 
 **Moneyless Resource Allocation with Heterogeneous Durations**
-  With Negin Golrezaei and Yifeng Teng. WIP
-  
-**Quasi-Linear and Value-Maximizing Autobidding in Sponsored Shopping**
-  With Negin Golrezaei and Yifeng Teng.
-  *[Submitted to SODA 2026]*
+  With Negin Golrezaei and Yifeng Teng. *[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
+
+**Weak Mean Based Algorithms**  
+  With Zezheng Lyu. WIP
   
 **The Risk and Rewards of User Expressiveness in Revenue-Driven Recommendation**
   With Yeganeh Alimohammadi and Negin Golrezaei. WIP
