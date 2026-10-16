@@ -30,7 +30,7 @@ permalink: /research/
   With Negin Golrezaei. *[Under Review at Operations Research](/files/Gap_Based_Learning_in_Multi_Unit_Markets_.pdf)*
 
 **Weak Mean Based Algorithms**  
-  With Zezheng Lyu. *[Under Review at AIStats](/files/Gap_Based_Learning_in_Multi_Unit_Markets_.pdf)*
+  With Zezheng Lyu. *[Under Review at AIStats]*
   
   
 ## Publications
