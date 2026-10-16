@@ -3,30 +3,41 @@ title: Research
 permalink: /research/
 ---
 
+## Ongoing
 
-## Working Papers
+**Learning Augmented Budget Constrained First-Price Auctions**
+  With Sourav Sahoo
+  
+**Too Many Papers to Review: When Less Is More**
+  With Farrell Wu
+
+**Private and Social Interview Design**
+  With Farrell Wu, Sitta Tantikul, and Sivakorn Sanguanmoo.
+
+**Convergence of FTRL Dynamics in First Price Auctions**
+
+
+**Moneyless Resource Allocation with Heterogeneous Durations**
+  With Negin Golrezaei and Yifeng Teng. *[Pre-Print, to be submitted to Operations Research soon!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
+
+## Under Review
 
 **Robust Multi-Item Demand Autobidding Auctions**
   With Negin Golrezaei and Yifeng Teng.
-  *[Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7501280)*
+  *[Job Market Paper](/files/Robust_Multi_Item_Demand_Autobidding_Auctions.pdf)*
 
 **Gap-Based Learning in Multi-Unit Markets**  
-  With Negin Golrezaei. *[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222981)*
-
-**Moneyless Resource Allocation with Heterogeneous Durations**
-  With Negin Golrezaei and Yifeng Teng. *[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
+  With Negin Golrezaei. *[Under Review at Operations Research](/files/Gap_Based_Learning_in_Multi_Unit_Markets_.pdf)*
 
 **Weak Mean Based Algorithms**  
-  With Zezheng Lyu. WIP
-  
-**The Risk and Rewards of User Expressiveness in Revenue-Driven Recommendation**
-  With Yeganeh Alimohammadi and Negin Golrezaei. WIP
-
+  With Zezheng Lyu. *[Under Review at AIStats](/files/Gap_Based_Learning_in_Multi_Unit_Markets_.pdf)*
   
   
 ## Publications
 
-
+**The Risk and Rewards of User Expressiveness in Revenue-Driven Recommendation**
+  With Yeganeh Alimohammadi and Negin Golrezaei. *[NeurIPS MLxOR Workshop 2026](/files/The_Risks_and_Rewards_of_User_Expressiveness_in_Revenue_Driven_Recommendation_MLxOR_.pdf)*
+  
 **Learning in Repeated Multi-unit Pay-as-Bid Auctions**
   With Negin Golrezaei.
   *[Published in _Manufacturing & Service Operations Management 2024_](https://pubsonline.informs.org/doi/full/10.1287/msom.2023.0403)*
@@ -40,6 +51,9 @@ permalink: /research/
   *[Published in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)_](https://epubs.siam.org/doi/abs/10.1137/1.9781611976830.15?af=R)*
 
 ## Other
+
+**Calibrating the Search: Valid Inference for LLM-Driven Alpha Mining**  
+  With Zezheng Lyu. *[Under Review at AIStats](/files/LLM_Search_Calibration_alpha_Mining.pdf)*
 
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
