@@ -16,9 +16,8 @@ permalink: /research/
 
 **Convergence of FTRL Dynamics in First Price Auctions**
 
-
 **Moneyless Resource Allocation with Heterogeneous Durations**
-  With Negin Golrezaei and Yifeng Teng. *[Pre-Print, to be submitted to Operations Research soon!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
+  With Negin Golrezaei and Yifeng Teng. *[Soon to be submitted to Operations Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
 
 ## Under Review
 
@@ -31,6 +30,9 @@ permalink: /research/
 
 **Weak Mean Based Algorithms**  
   With Zezheng Lyu. *[Under Review at AIStats]*
+
+**Best Response Converge**
+  *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
   
   
 ## Publications
