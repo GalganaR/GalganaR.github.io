@@ -23,7 +23,7 @@ permalink: /research/
 
 **Robust Multi-Item Demand Autobidding Auctions**
   With Negin Golrezaei and Yifeng Teng.
-  *[Job Market Paper](/files/Robust_Multi_Item_Demand_Autobidding_Auctions.pdf)*
+  *[Job Market Paper (Under Review at Management Science)](/files/Robust_Multi_Item_Demand_Autobidding_Auctions.pdf)*
 
 **Gap-Based Learning in Multi-Unit Markets**  
   With Negin Golrezaei. *[Under Review at Operations Research](/files/Gap_Based_Learning_in_Multi_Unit_Markets_.pdf)*
