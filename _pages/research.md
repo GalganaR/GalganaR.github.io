@@ -55,10 +55,12 @@ permalink: /research/
 ## Other
 
 **Calibrating the Search: Valid Inference for LLM-Driven Alpha Mining**  
-  With Zezheng Lyu. *[Under Review at AIStats](/files/LLM_Search_Calibration_alpha_Mining.pdf)*
+  With Zezheng Lyu. 
+  *[Under Review at AIStats](/files/LLM_Search_Calibration_alpha_Mining.pdf)*
 
 **Exact Expressions of Entropy for Classical Non-interacting Many-body Systems**
-  With Yuheng Wu and Henrik Heelweg. *[Pre-print](https://arxiv.org/pdf/2608.11104)*
+  With Yuheng Wu and Henrik Heelweg. 
+  *[Pre-print](https://arxiv.org/pdf/2608.11104)*
 
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
