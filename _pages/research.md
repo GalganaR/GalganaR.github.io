@@ -57,11 +57,14 @@ permalink: /research/
 **Calibrating the Search: Valid Inference for LLM-Driven Alpha Mining**  
   With Zezheng Lyu. *[Under Review at AIStats](/files/LLM_Search_Calibration_alpha_Mining.pdf)*
 
+**Exact Expressions of Entropy for Classical Non-interacting Many-body Systems**
+  With Yuheng Wu and Henrik Heelweg. *[Pre-print](https://arxiv.org/pdf/2608.11104)*
+
 **Efficient Algorithms to Sample from Order Statistic Distributions**  
   With Cyrus Cousins, Shamay Samuel.
-  *[Preprint](/files/Efficiently_Sampling_Order_Statistics.pdf)*
+  *[Pre-print](/files/Efficiently_Sampling_Order_Statistics.pdf)*
 
 **Optimal Reserve Price Estimation in the Generalized First and Second Price Auctions with Best Response Dynamics**  
   Completed 2020-05-22. With Amy Greenwald (Thesis Advisor).
-  *[Undergraduate Honors Thesis](http://cs.brown.edu/research/pubs/theses/ugrad/2020/galgana.rigel.pdf)*
+  *[Undergraduate Thesis](http://cs.brown.edu/research/pubs/theses/ugrad/2020/galgana.rigel.pdf)*
 
