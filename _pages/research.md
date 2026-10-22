@@ -31,7 +31,7 @@ permalink: /research/
 **Weak Mean Based Algorithms**  
   With Zezheng Lyu. *[Under Review at AIStats](/files/Weak_Mean_Based_Algorithms_.pdf)*
 
-**Best Response Converge**
+**Best Response Convergence**
   *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
   
   
