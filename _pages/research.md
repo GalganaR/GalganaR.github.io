@@ -12,7 +12,7 @@ permalink: /research/
   Rigel Galgana, Farrell Wu
 
 **Private and Social Interview Design**
-  Rigel Galgana, Sivakorn Sanguanmoo, Sitta Tantikul, Farrell Wu.
+  Glenn Ellison, Rigel Galgana, Sivakorn Sanguanmoo, Sitta Tantikul, Farrell Wu.
 
 **Convergence of FTRL Dynamics in First Price Auctions** Rigel Galgana
 
