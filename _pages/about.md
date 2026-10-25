@@ -12,7 +12,7 @@ I am a fifth year Operations Research PhD student at MIT working with Professor 
 
 Research Interests
 ======
-My interests lie at the intersection of learning, games, and mechanism design. My research focuses on the computational aspects of economic and decision-making problems, such as data driven mechanism design, equilibrium computation, and multi-agent reinforcement learning. I am also interested in the modeling, simulation, and modern applications of games, auctions, and markets. Outside of research, I enjoy playing table tennis, chess, guitar, and piano. Lastly, to those it may concern, I was once the CasualCollective's (RIP) illustrious FroggyX!
+My interests lie at the intersection of learning, games, and mechanism design. My research focuses on the computational aspects of economic and decision-making problems, such as 1) designing online learning algorithms for multi-unit or combinatorial auctions, 2) moneyless mechanism and market design, and 3) learning dynamics and their implications for equilibrium selection. More recently, I have been interested in the interaction between AI and markets in the contexts of recommendation systems, screening, and reviewing. Outside of research, I enjoy playing table tennis, chess, guitar, and piano. Lastly, to those it may concern, I was once the CasualCollective's (RIP) illustrious FroggyX!
 
 
 
