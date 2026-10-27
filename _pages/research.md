@@ -4,9 +4,6 @@ permalink: /research/
 ---
 
 ## Ongoing
-
-**Learning Augmented Budget Constrained First-Price Auctions**
-  Rigel Galgana, Sourav Sahoo
   
 **Too Many Papers to Review: When Less Is More**
   Rigel Galgana, Farrell Wu
@@ -33,6 +30,10 @@ permalink: /research/
 
 **Best Response Convergence**
   Rigel Galgana *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
+
+**Learning Augmented Budget Constrained First-Price Auctions**
+  Rigel Galgana, Sourav Sahoo *[Under Review at WebConf]*
+
   
   
 ## Publications
