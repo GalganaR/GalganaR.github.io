@@ -11,7 +11,7 @@ permalink: /research/
 **Private and Social Interview Design**
   Rigel Galgana, Sivakorn Sanguanmoo, Sitta Tantikul, Farrell Wu.
 
-**Convergence of FTRL Dynamics in First Price Auctions** Rigel Galgana.
+**Unwinnable Auctions: Convergence of FTRL Dynamics in First Price Auctions** Rigel Galgana.
 
 **Moneyless Resource Allocation with Heterogeneous Durations**
   Rigel Galgana, Negin Golrezaei, Yifeng Teng. *[Soon to be submitted to Operations Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
