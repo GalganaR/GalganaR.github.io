@@ -6,12 +6,12 @@ permalink: /research/
 ## Ongoing
   
 **Too Many Papers to Review: When Less Is More**
-  Rigel Galgana, Farrell Wu
+  Rigel Galgana, Farrell Wu.
 
 **Private and Social Interview Design**
   Rigel Galgana, Sivakorn Sanguanmoo, Sitta Tantikul, Farrell Wu.
 
-**Convergence of FTRL Dynamics in First Price Auctions** Rigel Galgana
+**Convergence of FTRL Dynamics in First Price Auctions** Rigel Galgana.
 
 **Moneyless Resource Allocation with Heterogeneous Durations**
   Rigel Galgana, Negin Golrezaei, Yifeng Teng. *[Soon to be submitted to Operations Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6222979)*
@@ -29,10 +29,10 @@ permalink: /research/
   Rigel Galgana, Zezheng Lyu. *[Under Review at AIStats](/files/Weak_Mean_Based_Algorithms_.pdf)*
 
 **Best Response Convergence**
-  Rigel Galgana *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
+  Rigel Galgana. *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
 
 **Learning Augmented Budget Constrained First-Price Auctions**
-  Rigel Galgana, Sourav Sahoo *Under Review at WebConf*
+  Rigel Galgana, Sourav Sahoo. *Under Review at WebConf*
 
   
   
