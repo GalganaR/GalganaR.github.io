@@ -32,7 +32,7 @@ permalink: /research/
   Rigel Galgana *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
 
 **Learning Augmented Budget Constrained First-Price Auctions**
-  Rigel Galgana, Sourav Sahoo *[Under Review at WebConf]*
+  Rigel Galgana, Sourav Sahoo *Under Review at WebConf*
 
   
   
