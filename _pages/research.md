@@ -28,9 +28,6 @@ permalink: /research/
 **Weak Mean Based Algorithms**  
   Rigel Galgana, Zezheng Lyu. *[Under Review at AIStats](/files/Weak_Mean_Based_Algorithms_.pdf)*
 
-**Best Response Convergence**
-  Rigel Galgana. *[Under Review at ICLR](/files/Best_Response_Convergence.pdf)*
-
 **Learning Augmented Budget Constrained First-Price Auctions**
   Rigel Galgana, Sourav Sahoo. *Under Review at WebConf*
 
@@ -54,6 +51,10 @@ permalink: /research/
   *[Published in _SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)_](https://epubs.siam.org/doi/abs/10.1137/1.9781611976830.15?af=R)*
 
 ## Other
+
+
+**Best Response Convergence**
+  Rigel Galgana. *[Pre-Print](/files/Best_Response_Convergence.pdf)*
 
 **Calibrating the Search: Valid Inference for LLM-Driven Alpha Mining**  
   Rigel Galgana, Zezheng Lyu. 
