@@ -4,9 +4,6 @@ permalink: /research/
 ---
 
 ## Ongoing
-  
-**Too Many Papers to Review: When Less Is More**
-  Rigel Galgana, Farrell Wu.
 
 **Private and Social Interview Design**
   Rigel Galgana, Sivakorn Sanguanmoo, Sitta Tantikul, Farrell Wu.
@@ -30,6 +27,9 @@ permalink: /research/
 
 **Learning Augmented Budget Constrained First-Price Auctions**
   Rigel Galgana, Sourav Sahoo. *Under Review at WebConf*
+  
+**Too Many Papers to Review: When Less Is More**
+  Rigel Galgana, Farrell Wu. *[Under Review at WebConf](/files/S7.pdf)*
 
   
   
